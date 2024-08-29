@@ -5,6 +5,7 @@
 
 .link {
   text-decoration: none;
+  color: black;
   &:hover {
     color: rgb(243, 238, 240);
   }
